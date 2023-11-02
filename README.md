@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Soy estudiante de Computer Science, desarrollador de software, entusiasta de la tecnología y programación.</h3>
+<h3 align="center">I am a Computer Science student, software developer, technology and programming enthusiast.</h3>
 
 ###
 
