@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kpzaolod6000&color=blueviolet&style=flat-square&label=VISTAS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kpzaolod6000&color=blueviolet&style=flat-square&label=VISTAS&v=1" alt="Profile Views" />
 </div>
 
 ###
