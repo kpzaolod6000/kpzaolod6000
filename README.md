@@ -26,7 +26,7 @@
 
 <br />
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Analytics -->
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=kpzaolod6000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="155" alt="stats graph" />
@@ -37,130 +37,59 @@
 
 <br />
 
-<!-- Tech Stack Section -->
+<!-- Tech Stack Section (Card-Badge Layout) -->
 <div align="center">
 
-<h3>🛠️ Tech Stack & Tooling</h3>
+  <h3>🛠️ Core Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="30" alt="C#" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="JavaScript" />
+    <br />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" alt="PHP" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="30" alt="Dart" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="30" alt="C++" />
+  </p>
 
-<table>
-  <!-- Languages -->
-  <tr>
-    <th colspan="4" align="center">Core Languages</th>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" width="38" alt="csharp" /><br />C#
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" width="38" alt="python" /><br />Python
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" width="38" alt="typescript" /><br />TypeScript
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" width="38" alt="javascript" /><br />JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" width="38" alt="php" /><br />PHP
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="38" width="38" alt="dart" /><br />Dart
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" width="38" alt="java" /><br />Java
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" width="38" alt="cplusplus" /><br />C++
-    </td>
-  </tr>
+  <h3>⚙️ Backend & Frameworks</h3>
+  <p>
+    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30" alt=".NET Core" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30" alt="Laravel" />
+  </p>
 
-  <!-- Backend & Frameworks -->
-  <tr>
-    <th colspan="4" align="center">Backend & Architecture</th>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="38" width="38" alt=".net" /><br />.NET Core
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" width="38" alt="fastapi" /><br />FastAPI
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" width="38" alt="nodejs" /><br />Node.js
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="38" width="38" alt="laravel" /><br />Laravel
-    </td>
-  </tr>
+  <h3>🌐 Frontend & Mobile</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="React" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="30" alt="Angular" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="Flutter" />
+  </p>
 
-  <!-- Frontend & Mobile -->
-  <tr>
-    <th colspan="4" align="center">Frontend & Mobile</th>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" width="38" alt="nextjs" /><br />Next.js
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" width="38" alt="react" /><br />React
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="38" width="38" alt="angular" /><br />Angular
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" width="38" alt="flutter" /><br />Flutter
-    </td>
-  </tr>
+  <h3>🗄️ Databases & Systems</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux" />
+  </p>
 
-  <!-- Databases & Systems -->
-  <tr>
-    <th colspan="4" align="center">Databases & Environment</th>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" width="38" alt="postgresql" /><br />PostgreSQL
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" width="38" alt="mysql" /><br />MySQL
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" width="38" alt="mongodb" /><br />MongoDB
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" width="38" alt="linux" /><br />Linux
-    </td>
-  </tr>
-
-  <!-- Version Control & AI Tooling -->
-  <tr>
-    <th colspan="4" align="center">Version Control & AI Tooling</th>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" width="38" alt="git" /><br />Git
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" width="38" alt="github" /><br />GitHub
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="24" alt="Claude Code" /><br />Claude Code
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/OpenCode-4B32C3?style=flat-square&logo=visualstudiocode&logoColor=white" height="24" alt="OpenCode" /><br />OpenCode & Spec
-    </td>
-  </tr>
-</table>
+  <h3>🤖 Version Control & AI Tooling</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Claude Code" />
+    <img src="https://img.shields.io/badge/OpenCode_%26_Spec-4B32C3?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" alt="OpenCode" />
+  </p>
 
 </div>
 
 <br />
 
-<!-- Featured Projects Placeholder -->
-### 📌 Featured Work
-
-- **Project Name 1** — Scalable RESTful API built with **.NET Core** / **FastAPI**, containerized and backed by **PostgreSQL**.
-- **Project Name 2** — Fullstack web application built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
-
-<br
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://hits.sh/github.com/kpzaolod6000.svg?label=PROFILE+VIEWS&color=8a2be2&style=flat-square" alt="Profile Views" />
+</div>
