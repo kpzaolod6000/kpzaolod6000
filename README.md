@@ -40,123 +40,69 @@
 
 <br />
 
-<!-- Stacks & Tools (Grid de 4 columnas simétrico) -->
+<!-- Stacks & Tools en 4 Columnas Reales -->
 <div align="center">
 
-  <h3>🛠️ Core Languages</h3>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" width="42" alt="csharp" /><br />
-    <sub><b>C#</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="42" alt="python" /><br />
-    <sub><b>Python</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" width="42" alt="typescript" /><br />
-    <sub><b>TypeScript</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="42" alt="javascript" /><br />
-    <sub><b>JavaScript</b></sub>
-  </div>
-  <br />
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" width="42" alt="php" /><br />
-    <sub><b>PHP</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" width="42" alt="dart" /><br />
-    <sub><b>Dart</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="42" alt="java" /><br />
-    <sub><b>Java</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" width="42" alt="cplusplus" /><br />
-    <sub><b>C++</b></sub>
-  </div>
+<h3>🛠️ Core Languages</h3>
 
-  <br />
+<table width="100%">
+  <tr>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" width="42" alt="csharp" /><br /><sub><b>C#</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="42" alt="python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" width="42" alt="typescript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="42" alt="javascript" /><br /><sub><b>JavaScript</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" width="42" alt="php" /><br /><sub><b>PHP</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" width="42" alt="dart" /><br /><sub><b>Dart</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="42" alt="java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" width="42" alt="cplusplus" /><br /><sub><b>C++</b></sub></td>
+  </tr>
+</table>
 
-  <h3>⚙️ Backend & Frameworks</h3>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="42" width="42" alt=".net" /><br />
-    <sub><b>.NET Core</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" width="42" alt="fastapi" /><br />
-    <sub><b>FastAPI</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" width="42" alt="nodejs" /><br />
-    <sub><b>Node.js</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42" width="42" alt="laravel" /><br />
-    <sub><b>Laravel</b></sub>
-  </div>
+<h3>⚙️ Backend & Frameworks</h3>
 
-  <br />
+<table width="100%">
+  <tr>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="42" width="42" alt=".net" /><br /><sub><b>.NET Core</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" width="42" alt="fastapi" /><br /><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" width="42" alt="nodejs" /><br /><sub><b>Node.js</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42" width="42" alt="laravel" /><br /><sub><b>Laravel</b></sub></td>
+  </tr>
+</table>
 
-  <h3>🌐 Frontend & Mobile</h3>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" width="42" alt="nextjs" /><br />
-    <sub><b>Next.js</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" width="42" alt="react" /><br />
-    <sub><b>React</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="42" width="42" alt="angular" /><br />
-    <sub><b>Angular</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" width="42" alt="flutter" /><br />
-    <sub><b>Flutter</b></sub>
-  </div>
+<h3>🌐 Frontend & Mobile</h3>
 
-  <br />
+<table width="100%">
+  <tr>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" width="42" alt="nextjs" /><br /><sub><b>Next.js</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" width="42" alt="react" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="42" width="42" alt="angular" /><br /><sub><b>Angular</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" width="42" alt="flutter" /><br /><sub><b>Flutter</b></sub></td>
+  </tr>
+</table>
 
-  <h3>🗄️ Databases & Systems</h3>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" width="42" alt="postgresql" /><br />
-    <sub><b>PostgreSQL</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" width="42" alt="mysql" /><br />
-    <sub><b>MySQL</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" width="42" alt="mongodb" /><br />
-    <sub><b>MongoDB</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" width="42" alt="linux" /><br />
-    <sub><b>Linux</b></sub>
-  </div>
+<h3>🗄️ Databases & Systems</h3>
 
-  <br />
+<table width="100%">
+  <tr>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" width="42" alt="postgresql" /><br /><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" width="42" alt="mysql" /><br /><sub><b>MySQL</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" width="42" alt="mongodb" /><br /><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" width="42" alt="linux" /><br /><sub><b>Linux</b></sub></td>
+  </tr>
+</table>
 
-  <h3>🤖 Version Control & AI Tooling</h3>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" width="42" alt="git" /><br />
-    <sub><b>Git</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" width="42" alt="github" /><br />
-    <sub><b>GitHub</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="26" alt="Claude Code" /><br />
-    <sub><b>Claude Code</b></sub>
-  </div>
-  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
-    <img src="https://img.shields.io/badge/OpenCode-4B32C3?style=flat-square&logo=visualstudiocode&logoColor=white" height="26" alt="OpenCode" /><br />
-    <sub><b>OpenCode / Spec</b></sub>
-  </div>
+<h3>🤖 Version Control & AI Tooling</h3>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" width="42" alt="git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" width="42" alt="github" /><br /><sub><b>GitHub</b></sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="26" alt="Claude Code" /><br /><sub><b>Claude Code</b></sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/OpenCode-4B32C3?style=flat-square&logo=visualstudiocode&logoColor=white" height="26" alt="OpenCode" /><br /><sub><b>OpenCode / Spec</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
