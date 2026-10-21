@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kelvin Pucho</h1>
 
-<h3 align="center">Computer Science Graduate | Software Engineer | AI & Backend Enthusiast</h3>
+<h2 align="center">🎓 Bachelor of Science in Computer Science</h2>
+<h4 align="center">Software Engineer | Backend & Fullstack Architecture | AI Tooling</h4>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Degree-B.S._in_Computer_Science-104f55?style=for-the-badge&logo=academia&logoColor=white" height="28" alt="Degree" />
+  &nbsp;
   <a href="https://discord.com/users/631989116732702760" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" alt="discord" />
   </a>
@@ -21,7 +24,7 @@
 </p>
 
 <blockquote align="center">
-  🚀 <em>Focused on building scalable REST APIs, Fullstack web architectures, and AI-assisted workflows.</em>
+  💡 <strong>Computer Science Graduate</strong> with solid foundations in algorithmic design, data structures, and software engineering. Focused on building high-performance APIs (.NET / FastAPI), scalable web applications, and AI-driven development workflows.
 </blockquote>
 
 <br />
@@ -37,53 +40,123 @@
 
 <br />
 
-<!-- Tech Stack Section (Card-Badge Layout) -->
+<!-- Stacks & Tools (Grid de 4 columnas simétrico) -->
 <div align="center">
 
   <h3>🛠️ Core Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="30" alt="C#" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="JavaScript" />
-    <br />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" alt="PHP" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="30" alt="Dart" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="30" alt="C++" />
-  </p>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" width="42" alt="csharp" /><br />
+    <sub><b>C#</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="42" alt="python" /><br />
+    <sub><b>Python</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" width="42" alt="typescript" /><br />
+    <sub><b>TypeScript</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="42" alt="javascript" /><br />
+    <sub><b>JavaScript</b></sub>
+  </div>
+  <br />
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" width="42" alt="php" /><br />
+    <sub><b>PHP</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" width="42" alt="dart" /><br />
+    <sub><b>Dart</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="42" alt="java" /><br />
+    <sub><b>Java</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" width="42" alt="cplusplus" /><br />
+    <sub><b>C++</b></sub>
+  </div>
+
+  <br />
 
   <h3>⚙️ Backend & Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30" alt=".NET Core" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30" alt="Laravel" />
-  </p>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="42" width="42" alt=".net" /><br />
+    <sub><b>.NET Core</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" width="42" alt="fastapi" /><br />
+    <sub><b>FastAPI</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" width="42" alt="nodejs" /><br />
+    <sub><b>Node.js</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42" width="42" alt="laravel" /><br />
+    <sub><b>Laravel</b></sub>
+  </div>
+
+  <br />
 
   <h3>🌐 Frontend & Mobile</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="React" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="30" alt="Angular" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="Flutter" />
-  </p>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" width="42" alt="nextjs" /><br />
+    <sub><b>Next.js</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" width="42" alt="react" /><br />
+    <sub><b>React</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="42" width="42" alt="angular" /><br />
+    <sub><b>Angular</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" width="42" alt="flutter" /><br />
+    <sub><b>Flutter</b></sub>
+  </div>
+
+  <br />
 
   <h3>🗄️ Databases & Systems</h3>
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux" />
-  </p>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" width="42" alt="postgresql" /><br />
+    <sub><b>PostgreSQL</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" width="42" alt="mysql" /><br />
+    <sub><b>MySQL</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" width="42" alt="mongodb" /><br />
+    <sub><b>MongoDB</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" width="42" alt="linux" /><br />
+    <sub><b>Linux</b></sub>
+  </div>
+
+  <br />
 
   <h3>🤖 Version Control & AI Tooling</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Claude Code" />
-    <img src="https://img.shields.io/badge/OpenCode_%26_Spec-4B32C3?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" alt="OpenCode" />
-  </p>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" width="42" alt="git" /><br />
+    <sub><b>Git</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" width="42" alt="github" /><br />
+    <sub><b>GitHub</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="26" alt="Claude Code" /><br />
+    <sub><b>Claude Code</b></sub>
+  </div>
+  <div style="display: inline-block; width: 22%; text-align: center; margin: 10px 0;">
+    <img src="https://img.shields.io/badge/OpenCode-4B32C3?style=flat-square&logo=visualstudiocode&logoColor=white" height="26" alt="OpenCode" /><br />
+    <sub><b>OpenCode / Spec</b></sub>
+  </div>
 
 </div>
 
