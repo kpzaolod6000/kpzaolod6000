@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kpzaolod6000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=es&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kpzaolod6000&locale=es&hide_title=false&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=false" height="165" alt="languages graph" />
+  <img src="https://camo.githubusercontent.com/58bf99bef16fc22710058dd1a97164b42f2e36126ffe3198bbcbf63059362d37/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b707a616f6c6f6436303030266c6f63616c653d657326686964655f7469746c653d66616c7365266c61796f75743d636f6d70616374266c616e67735f636f756e743d36267468656d653d766973696f6e2d667269656e646c792d6461726b26686964655f626f726465723d66616c7365" height="165" alt="languages graph" />
 </div>
 
 ###
