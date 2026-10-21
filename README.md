@@ -23,10 +23,6 @@
   <img height="140" src="https://media.tenor.com/JO11AZatqkkAAAAC/city.gif" alt="city skyline animation" />
 </p>
 
-<blockquote align="center">
-  💡 <strong>Computer Science Graduate</strong> with solid foundations in algorithmic design, data structures, and software engineering. Focused on building high-performance APIs (.NET / FastAPI), scalable web applications, and AI-driven development workflows.
-</blockquote>
-
 <br />
 
 <!-- GitHub Analytics -->
