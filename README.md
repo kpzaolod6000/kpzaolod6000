@@ -2,8 +2,8 @@
 
 ###
 
-<h3 align="center">I am a Computer Science student, software developer, technology and programming enthusiast.</h3>
-
+<h3 align="center">Bachelor's Degree in Computer Science | Software Engineering Professional | AI Enthusiast</h3
+                                                                                                              
 ###
 
 <div align="center">
@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=es&hide_border=false&username=kpzaolod6000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&username=kpzaolod6000" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=es&hide_border=false&username=kpzaolod6000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&username=kpzaolod6000" height="150" alt="languages graph" />
 </div>
 
 ###
