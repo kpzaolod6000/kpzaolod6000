@@ -18,79 +18,93 @@
 </div>
 
 ###
-
 <div align="center">
 
-  <!-- Lenguajes -->
-  <h4>Lenguajes</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="35" alt="typescript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="35" alt="javascript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="35" alt="python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" width="35" alt="csharp" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" width="35" alt="php" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" width="35" alt="dart" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="35" alt="java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" width="35" alt="cplusplus" />
+### 🛠️ Stacks & Herramientas
 
-  <br /><br />
+<table>
+  <!-- Lenguajes -->
+  <tr>
+    <td colspan="4" align="center"><strong>Lenguajes</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript" /><br />TypeScript
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" /><br />JavaScript
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python" /><br />Python
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp" /><br />C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" alt="php" /><br />PHP
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40" alt="dart" /><br />Dart
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java" /><br />Java
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus" /><br />C++
+    </td>
+  </tr>
 
   <!-- Backend & Frameworks -->
-  <h4>Backend & Frameworks</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="35" alt="nodejs" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" width="35" alt=".net" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" width="35" alt="fastapi" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" width="35" alt="laravel" />
-
-  <br /><br />
+  <tr>
+    <td colspan="4" align="center"><strong>Backend & Frameworks</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs" /><br />Node.js
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="40" alt=".net" /><br />.NET
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="fastapi" /><br />FastAPI
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="40" alt="laravel" /><br />Laravel
+    </td>
+  </tr>
 
   <!-- Frontend & Mobile -->
-  <h4>Frontend & Mobile</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="35" alt="react" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" width="35" alt="nextjs" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="35" width="35" alt="angular" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" width="35" alt="flutter" />
+  <tr>
+    <td colspan="4" align="center"><strong>Frontend & Mobile</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react" /><br />React
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs" /><br />Next.js
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" width="40" alt="angular" /><br />Angular
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40" alt="flutter" /><br />Flutter
+    </td>
+  </tr>
 
-  <br /><br />
-
-  <!-- Bases de Datos -->
-  <h4>Bases de Datos</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="35" alt="mysql" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" width="35" alt="postgresql" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" width="35" alt="mongodb" />
-
-  <br /><br />
-
-  <!-- Herramientas, Entorno & IA -->
-  <h4>Herramientas & IA</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="35" alt="git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" width="35" alt="github" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" width="35" alt="linux" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="28" alt="Claude Code" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenCode-4B32C3?style=flat-square&logo=visualstudiocode&logoColor=white" height="28" alt="OpenCode" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenSpec-00599C?style=flat-square&logo=swagger&logoColor=white" height="28" alt="OpenSpec" />
-
-</div>
-
+  <!-- Bases de Datos & Entorno -->
+  <tr>
+    <td colspan="4" align="center"><strong>Bases de Datos & Entorno</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql" /><br />MySQL
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql" /><br />PostgreSQL
+    </td>
 ###
 
 <div align="center">
