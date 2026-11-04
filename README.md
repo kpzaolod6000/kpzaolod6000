@@ -29,8 +29,8 @@
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <p align="center">
-    <img src="https://TU-DOMINIO.vercel.app/api?username=kpzaolod6000&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark" height="155" alt="stats graph" />
-    <img src="https://TU-DOMINIO.vercel.app/api/top-langs/?username=kpzaolod6000&layout=compact&langs_count=6&theme=vision-friendly-dark" height="155" alt="languages graph" />
+    <img src="https://github-readme-stats-abc123.vercel.app/api?username=kpzaolod6000&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark" height="155" alt="stats graph" />
+    <img src="https://github-readme-stats-abc123.vercel.app/api/top-langs/?username=kpzaolod6000&layout=compact&langs_count=6&theme=vision-friendly-dark" height="155" alt="languages graph" />
   </p>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpzaolod6000&theme=vision-friendly-dark&hide_border=false" height="155" alt="streak stats" />
