@@ -29,8 +29,8 @@
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kpzaolod6000&theme=github_dark" height="155" alt="stats graph" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kpzaolod6000&theme=github_dark" height="155" alt="languages graph" />
+    <img src="https://gh-stats.com/api/kpzaolod6000" height="155" alt="stats graph" />
+    <img src="https://github-helpers.creativecode.com.co/api/languages?username=kpzaolod6000&theme=tokyonight&locale=en" height="155" alt="languages graph" />
   </p>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpzaolod6000&theme=vision-friendly-dark&hide_border=false" height="155" alt="streak stats" />
