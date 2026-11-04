@@ -28,8 +28,18 @@
 <!-- GitHub Analytics -->
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=kpzaolod6000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="155" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kpzaolod6000&locale=en&hide_title=false&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=false&v=1" height="155" alt="languages graph" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kpzaolod6000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&cache_seconds=1800" 
+    height="165" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kpzaolod6000&locale=en&hide_title=false&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=false&cache_seconds=1800" 
+    height="165" 
+    alt="Top Languages" 
+  />
+</p>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpzaolod6000&theme=vision-friendly-dark&hide_border=false" height="155" alt="streak stats" />
 </div>
