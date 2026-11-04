@@ -29,8 +29,8 @@
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <p align="center">
-    <img src="https://gh-stats.skiddph.com/api/stats?username=kpzaolod6000&theme=dark" height="155" alt="stats graph" />
-    <img src="https://gh-stats.skiddph.com/api/top-langs?username=kpzaolod6000&theme=dark&layout=compact" height="155" alt="languages graph" />
+    <img src="https://github-helpers.creativecode.com.co/api/stats?username=kpzaolod6000&theme=dark&locale=en" height="155" alt="stats graph" />
+    <img src="https://github-helpers.creativecode.com.co/api/languages?username=kpzaolod6000&theme=tokyonight&locale=en" height="155" alt="languages graph" />
   </p>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpzaolod6000&theme=vision-friendly-dark&hide_border=false" height="155" alt="streak stats" />
